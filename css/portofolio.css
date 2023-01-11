@@ -1,0 +1,143 @@
+body {
+  background: #161824 !important;
+}
+
+.navbar,
+.nav-link {
+  margin: 12px 8px 0px 8px;
+  font-size: 24px;
+  color: #fff !important;
+}
+
+.nav-link:hover {
+  color: #0456c8 !important;
+  border-bottom: 1px solid #0456c8;
+}
+
+#summary {
+  margin-top: 40px;
+}
+
+#summary span {
+  font-size: 20px;
+  color: aqua !important;
+}
+
+.summary-title {
+  font-size: 38px;
+  color: #0456c8 !important;
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+.summary-desc {
+  font-size: 20px;
+  color: #fff !important;
+  font-weight: 300;
+  margin-top: 24px;
+}
+
+#summary button {
+  border-radius: 20px;
+  font-size: 24px;
+  width: 280px;
+  margin-bottom: 20px;
+}
+
+.btn a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.btn a:hover {
+  color: #fff !important;
+}
+
+#experience {
+  margin-top: 85px;
+  color: #fff !important;
+}
+
+.title-experience {
+  font-size: 38px;
+  letter-spacing: 2px;
+}
+
+.my-exp {
+  margin-top: 40px;
+}
+
+.work-exp {
+  font-size: 32px;
+  font-weight: 700;
+  color: #0456c8;
+}
+
+.work-desc {
+  margin-top: 12px;
+}
+
+#skills {
+  margin-top: 40px;
+  color: #fff !important;
+}
+
+.card-skills {
+  width: 350px;
+  height: 400px;
+  background: #212331;
+  margin-left: 20px;
+  border-radius: 20px;
+}
+
+.card-body {
+  margin: auto;
+}
+
+#portfolio {
+  margin-top: 40px;
+  color: #fff !important;
+}
+
+.title-portofolio {
+  font-size: 38px;
+  letter-spacing: 2px;
+}
+
+.title-web-portfolio {
+  font-size: 28px;
+  color: #0456c8;
+}
+
+footer {
+  margin-top: 40px;
+  border-top: 1px solid #fff;
+  color: #fff;
+}
+
+#hire {
+  margin-top: 40px;
+  color: #fff !important;
+}
+
+.title-hire {
+  font-size: 38px;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+}
+
+.hireMe {
+  background: #3567d2;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.form-control {
+  border-radius: 40px;
+  padding-left: 20px;
+  padding-top: 5px;
+}
+
+footer h5 {
+  margin-top: 20px;
+}
