@@ -20,8 +20,8 @@ body {
 
 #summary span {
   font-size: 20px;
-  color: aqua !important;
-}
+  color: #F4F6FF !important;
+} 
 
 .summary-title {
   font-size: 38px;
@@ -35,6 +35,7 @@ body {
   color: #fff !important;
   font-weight: 300;
   margin-top: 24px;
+  text-align: justify;
 }
 
 #summary button {
@@ -77,22 +78,6 @@ body {
   margin-top: 12px;
 }
 
-#skills {
-  margin-top: 40px;
-  color: #fff !important;
-}
-
-.card-skills {
-  width: 350px;
-  height: 400px;
-  background: #212331;
-  margin-left: 20px;
-  border-radius: 20px;
-}
-
-.card-body {
-  margin: auto;
-}
 
 #portfolio {
   margin-top: 40px;
@@ -109,34 +94,17 @@ body {
   color: #0456c8;
 }
 
+#certificate{ 
+  margin-top: 40px;
+  color: #fff !important;
+}
+
 footer {
   margin-top: 40px;
   border-top: 1px solid #fff;
   color: #fff;
 }
 
-#hire {
-  margin-top: 40px;
-  color: #fff !important;
-}
-
-.title-hire {
-  font-size: 38px;
-  letter-spacing: 2px;
-  margin-bottom: 20px;
-}
-
-.hireMe {
-  background: #3567d2;
-  padding: 20px;
-  border-radius: 20px;
-}
-
-.form-control {
-  border-radius: 40px;
-  padding-left: 20px;
-  padding-top: 5px;
-}
 
 footer h5 {
   margin-top: 20px;
